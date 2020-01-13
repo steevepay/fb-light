@@ -10,7 +10,7 @@ You must have installed [node](https://nodejs.org/en/) and [npm](https://www.npm
 
 You can setup the database from the file `init_database.sql`.
 
-To install the dependencies, run the following command a the project root:
+To install the dependencies, run the following command at the project root:
 ```bash
 $ npm install
 ```
